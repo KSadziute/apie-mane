@@ -1,0 +1,66 @@
+*{
+    font-family: 'Playfair Display', serif;
+    
+}
+
+img{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.212);
+  
+}
+
+
+.bio, .edu{
+    display: inline-block;
+    background: rgb(245, 169, 181);
+    width: 500px;
+    padding: 35px;
+    margin: 40px;
+    font-size: larger;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.212);
+    letter-spacing: 3px;
+}
+
+.bio:hover{
+  background-color: rgb(57, 57, 88);
+  color: white;
+
+}
+
+.edu:hover{
+    background-color: rgb(57, 57, 88);
+    color: white;
+  }
+  
+
+
+.facts{
+    display: block;
+    background: rgb(57, 57, 88);
+    color: white;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.479)
+}
+
+.facts:hover{
+    background-color: rgb(245, 169, 181);
+    color: black;
+}
+
+.h1, h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(156, 159, 161);
+}
+
+
+
+
+  
